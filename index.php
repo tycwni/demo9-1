@@ -29,9 +29,3 @@ imagettftext($img, rand(15,25), rand(-5,5), rand(2,15), rand(25,35), $colorBgz, 
 imagejpeg($img);
 imagedestroy($img);
 ?>
-<?
-echo "aajfkljk";
-var_dump('jkklsjkl');
-$ass="djl;g;aj";
-echo $ass;
-?>
